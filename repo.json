@@ -1,0 +1,8 @@
+{ 
+  "name": "Plugin for Vietnamese",
+  "description": "Đây là repo phim cho người việt",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/thegamer00a/thegamer00a/raw/main/plugins.json"
+  ]
+}
