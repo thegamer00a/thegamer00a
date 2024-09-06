@@ -1,0 +1,79 @@
+[
+    {
+         "iconUrl": "https://phimmoichillv.net/favicon.ico",
+         "apiVersion": 1,
+         "repositoryUrl": "https://github.com",
+         "fileSize": 15135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 1,
+        "internalName": "PhimchillProvider",
+        "description": "Nguồn từ phimmoichill",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/PhimchillProvider.cs3",
+        "name": "PhimchillProvider"
+    },
+    {
+         "iconUrl": "https://ophim.com.co/wp-content/uploads/2024/07/ico_ophim.webp",
+         "apiVersion": 1,
+         "repositoryUrl": "https://github.com",
+         "fileSize": 13135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 1,
+        "internalName": "OPhimProvider",
+        "description": "Nguồn từ OPhim",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
+    },  {
+         "iconUrl": "https://cdn.animevietsub.app/data/logo/logoz.png",
+         "apiVersion": 1,
+         "repositoryUrl": "https://github.com",
+         "fileSize": 11135,
+         "status": 0,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 1,
+        "internalName": "AnimeVietsubProvider",
+        "description": "Nguồn từ AnimeVietsub",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/AnimeVietsubProvider.cs3",
+        "name": "AnimeVietsubProvider"
+    },  {
+         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
+         "apiVersion": 1,
+         "repositoryUrl": "https://github.com",
+         "fileSize": 11135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "ntd"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 1,
+        "internalName": "MotchillProvider.cs3",
+        "description": "Nguồn từ MotchillProvider.cs3",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/MotchillProvider.cs3",
+        "name": "MotchillProvider.cs3"
+    }
+
+    
+    
+]
