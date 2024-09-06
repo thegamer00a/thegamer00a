@@ -3,6 +3,6 @@
   "description": "Đây là repo phim cho người việt",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins.json?token=GHSAT0AAAAAACWBCGFV7WTDIUESVWOSJDDEZW222OQ"
+    "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins.json"
   ]
 }
