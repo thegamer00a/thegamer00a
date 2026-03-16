@@ -1,0 +1,21 @@
+function getManifest() {
+  return JSON.stringify({
+    "id": "kkphim",
+    "name": "KKPhim",
+    "version": "1.0.0",
+    "baseUrl": "https://phimapi.com",
+    "iconUrl": "https://kkphim1.com/assets/img/logo-2.png",
+    "isEnabled": true,
+    "type": "MOVIE"
+  });
+}
+
+function getHomeSections() {
+  return JSON.stringify([
+    { slug: 'phim-chieu-rap', title: 'Phim Chiếu Rạp', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'phim-bo', title: 'Phim Bộ', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'phim-le', title: 'Phim Lẻ', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'hoat-hinh', title: 'Hoạt Hình', type: 'Horizontal', path: 'danh-sach' }
+    ]);
+}
+
