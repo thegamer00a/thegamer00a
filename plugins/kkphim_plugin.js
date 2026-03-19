@@ -4,7 +4,7 @@ function getManifest() {
     "name": "KKPhim",
     "version": "1.0.0",
     "baseUrl": "https://phimapi.com",
-    "iconUrl": "https://kkphim1.com/assets/img/favicon.png",
+    "iconUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/kkphim.png",
     "isEnabled": true,
     "type": "MOVIE"
   });
