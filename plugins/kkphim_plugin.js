@@ -1,21 +1,26 @@
 function getManifest() {
-  return JSON.stringify({
-    "id": "kkphim",
-    "name": "KKPhim",
-    "version": "1.0.0",
-    "baseUrl": "https://phimapi.com",
-    "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/kkphim.png",
-    "isEnabled": true,
-    "type": "MOVIE"
-  });
+    return JSON.stringify({
+        "id": "kkphim",
+        "name": "KKPhim",
+        "version": "1.0.1",
+        "baseUrl": "https://phimapi.com",
+        "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/kkphim.png",
+        "isEnabled": true,
+        "type": "MOVIE"
+    });
 }
 
 function getHomeSections() {
-  return JSON.stringify([
-    { slug: 'phim-chieu-rap', title: 'Phim Chiếu Rạp', type: 'Horizontal', path: 'danh-sach' },
+    return JSON.stringify([
+        { slug: 'phim-chieu-rap', title: 'Phim Chiếu Rạp', type: 'Horizontal', path: 'danh-sach' },
         { slug: 'phim-bo', title: 'Phim Bộ', type: 'Horizontal', path: 'danh-sach' },
         { slug: 'phim-le', title: 'Phim Lẻ', type: 'Horizontal', path: 'danh-sach' },
-        { slug: 'hoat-hinh', title: 'Hoạt Hình', type: 'Horizontal', path: 'danh-sach' }
+        { slug: 'hoat-hinh', title: 'Hoạt Hình', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'tv-shows', title: 'TV Shows', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'subteam', title: 'Subteam', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'phim-thuyet-minh', title: 'Phim Thuyết Minh', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'phim-long-tieng', title: 'Phim Lồng Tiếng', type: 'Horizontal', path: 'danh-sach' },
+        { slug: 'phim-moi-cap-nhat-v3', title: 'Phim Mới Cập Nhật', type: 'Grid', path: 'danh-sach' }
     ]);
 }
 
