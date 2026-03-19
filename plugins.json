@@ -9,6 +9,12 @@
             "scriptUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/ophim_plugin.js",
             "iconUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/ophim.ico"
         },    
-        
+        {
+            "id": "kkphim",
+            "name": "KKPhim",
+            "version": "1.0.3",
+            "scriptUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/kkphim_plugin.js",
+            "iconUrl": "https://kkphim1.com/assets/img/logo-2.png"
+        },    
     ]
 }
