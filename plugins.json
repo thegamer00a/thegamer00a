@@ -15,6 +15,13 @@
             "version": "1.0.0",
             "scriptUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/kkphim_plugin.js",
             "iconUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/kkphim.png"
-        }  
+        },
+        {
+            "id": "truyenqq",
+            "name": "TruyenQQ",
+            "version": "1.0.0",
+            "scriptUrl": "https://raw.githubusercontent.com/thegamer00a/thegamer00a/main/plugins/truyenqq_plugin.js",
+            "iconUrl": "https://otruyenapi.com/favicon.ico"
+        }
     ]
 }
