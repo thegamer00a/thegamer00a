@@ -37,7 +37,7 @@ function getUrlList(slug, filtersJson) {
     try {
         var filters = JSON.parse(filtersJson || "{}");
         var page = filters.page || 1;
-        var baseUrl = "https://truyenqqno.com/truyen-dich-qq";
+        var baseUrl = "https://truyenqqno.com";
 
         // Default: danh-sach/truyen-moi
         var finalPath = "/danh-sach/truyen-moi";
