@@ -37,7 +37,7 @@ function getUrlList(slug, filtersJson) {
     try {
         var filters = JSON.parse(filtersJson || "{}");
         var page = filters.page || 1;
-        var baseUrl = "https://truyenqqno.com";
+        var baseUrl = "https://truyenqqno.com/truyen-moi-cap-nhat";
 
         // Default: danh-sach/truyen-moi
         var finalPath = "/danh-sach/truyen-moi";
@@ -65,7 +65,7 @@ function getUrlSearch(keyword, filtersJson) {
 }
 
 function getUrlDetail(slug) {
-    return "https://truyenqqno.com/" + slug;
+    return "https://truyenqqno.com/truyen-moi-cap-nhat" + slug;
 }
 
 function getUrlCategories() {
