@@ -173,7 +173,7 @@ function parseDetailResponse(apiResponseJson) {
     try {
         var response = JSON.parse(apiResponseJson);
         var item = response.data?.item || {};
-        var cdnDomain = response.data?.domain_cdn || "https://img.otruyenapi.com";
+        var cdnDomain = response.data?.domain_cdn || "https://truyenqqno.com";
 
         // Parse chapter images
         var images = [];
